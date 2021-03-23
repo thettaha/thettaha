@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there, I'm @thettaha 👋
  
 - 🔭 I’m currently working on new something learning.
 - 🌱 I’m currently learning Python.
